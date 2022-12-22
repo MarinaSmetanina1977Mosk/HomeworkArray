@@ -1,0 +1,15 @@
+C:\Users\User1\Desktop\GeekBrains\C#\HomeworkArray\HomeworkArray\HomeworkArray\Task68\obj\Debug\net6.0\Task68.csproj.AssemblyReference.cache
+C:\Users\User1\Desktop\GeekBrains\C#\HomeworkArray\HomeworkArray\HomeworkArray\Task68\obj\Debug\net6.0\Task68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\Desktop\GeekBrains\C#\HomeworkArray\HomeworkArray\HomeworkArray\Task68\obj\Debug\net6.0\Task68.AssemblyInfoInputs.cache
+C:\Users\User1\Desktop\GeekBrains\C#\HomeworkArray\HomeworkArray\HomeworkArray\Task68\obj\Debug\net6.0\Task68.AssemblyInfo.cs
+C:\Users\User1\Desktop\GeekBrains\C#\HomeworkArray\HomeworkArray\HomeworkArray\Task68\obj\Debug\net6.0\Task68.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\GeekBrains\C#\HomeworkArray\HomeworkArray\HomeworkArray\Task68\bin\Debug\net6.0\Task68.exe
+C:\Users\User1\Desktop\GeekBrains\C#\HomeworkArray\HomeworkArray\HomeworkArray\Task68\bin\Debug\net6.0\Task68.deps.json
+C:\Users\User1\Desktop\GeekBrains\C#\HomeworkArray\HomeworkArray\HomeworkArray\Task68\bin\Debug\net6.0\Task68.runtimeconfig.json
+C:\Users\User1\Desktop\GeekBrains\C#\HomeworkArray\HomeworkArray\HomeworkArray\Task68\bin\Debug\net6.0\Task68.dll
+C:\Users\User1\Desktop\GeekBrains\C#\HomeworkArray\HomeworkArray\HomeworkArray\Task68\bin\Debug\net6.0\Task68.pdb
+C:\Users\User1\Desktop\GeekBrains\C#\HomeworkArray\HomeworkArray\HomeworkArray\Task68\obj\Debug\net6.0\Task68.dll
+C:\Users\User1\Desktop\GeekBrains\C#\HomeworkArray\HomeworkArray\HomeworkArray\Task68\obj\Debug\net6.0\refint\Task68.dll
+C:\Users\User1\Desktop\GeekBrains\C#\HomeworkArray\HomeworkArray\HomeworkArray\Task68\obj\Debug\net6.0\Task68.pdb
+C:\Users\User1\Desktop\GeekBrains\C#\HomeworkArray\HomeworkArray\HomeworkArray\Task68\obj\Debug\net6.0\Task68.genruntimeconfig.cache
+C:\Users\User1\Desktop\GeekBrains\C#\HomeworkArray\HomeworkArray\HomeworkArray\Task68\obj\Debug\net6.0\ref\Task68.dll
